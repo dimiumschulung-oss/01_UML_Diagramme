@@ -1,6 +1,7 @@
 
 @startuml usecase allgemein
 
+!include tools/style.puml
 ' -------------------------------------------------------------
 ' 1. GRUNDKONFIGURATION & STIL
 ' -------------------------------------------------------------
